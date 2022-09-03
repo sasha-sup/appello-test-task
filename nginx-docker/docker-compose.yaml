@@ -1,0 +1,10 @@
+version: '3.6'
+services:
+  nginx:
+    restart: always
+    image: alexsup1312/appello-test:v1 
+    container_name: "test-page"
+    volumes:
+      - /var/log/nginx/:/var/log/nginx:rw
+    ports:
+      - 80:8228

@@ -1,0 +1,4 @@
+# Ignore: 
+**/.terraform*
+**/*.tfstate
+**/*.tfstate.backup
