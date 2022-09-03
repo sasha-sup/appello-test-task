@@ -8,4 +8,4 @@ docker build -t image-name:example && \
 sed -i "s/alexsup1312\/appello-test:v1/image-name:example/g" docker-compose.yaml && \
 docker compose up -d
 ```
-nginx logs stored in **/var/log/nginx**
+nginx logs stored in `/var/log/nginx`
