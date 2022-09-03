@@ -15,5 +15,5 @@ Links:
 
 
 [docker image]:<https://hub.docker.com/r/alexsup1312/appello-test>
-[Server IP]:<54.87.101.155:8228>
+[Server IP]:<http://54.87.101.155:8228>
 [Github]:<https://github.com/sasha-sup/appello-test-task>
